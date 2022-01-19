@@ -7,8 +7,8 @@
   laravel-passport$ composer install
   laravel-passport$ mv .env.example .env
   laravel-passport$ php artisan generate:key
-  laravel-passport$ php artisan passport:install
   laravel-passport$ php artisan migrate
+  laravel-passport$ php artisan passport:install
   laravel-passport$ php artisan serve
 ```
 # Endpoint
